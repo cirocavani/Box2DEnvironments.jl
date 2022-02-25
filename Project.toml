@@ -1,0 +1,9 @@
+name = "Box2DEnvironments"
+uuid = "d23e1168-45dc-4ba9-a8cf-e9f8651c4cda"
+authors = ["Ciro Cavani <ciro.cavani@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+Box2D = "f7f52fb0-4d99-4eee-89a2-b87b26020b8b"
+Box2D_Julia_jll = "cff9de98-b3f9-5ed8-b56c-899cbf05a2cb"
+Box2D_jll = "6756b63d-2e54-5dc6-816b-1fc83e1ae834"
